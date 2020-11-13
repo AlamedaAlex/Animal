@@ -1,0 +1,10 @@
+[16:40, 11/11/2020] De este programa, pues hay que transformarlo a .java y todo eso, lo que ya sabes hacer
+[16:41, 11/11/2020] (ya lo compilé, pero como cambié de compu pues tengo que instalar de nuevo Java y todo ese rollo)
+[16:42, 11/11/2020] Entonces, en ese programa van a salir errores, es normal, dijo que era para que viéramos los niveles de visibilidad y todo ese show
+[16:42, 11/11/2020] Entonces, de Tarea nos pidió:
+[16:43, 11/11/2020] 1. Comentarizar o eliminar el método probar en todas las clases (dijo que son los métodos en donde lanza errores)
+[16:44, 11/11/2020] 2. Crear el método respira en las 3 clases, pero que escriba un mensaje diferente en cada clase (puede ser cualquier mensaje)
+[16:44, 11/11/2020] 3. Crear un main:
+[16:44, 11/11/2020] 3.1. Dentro del main crear un arreglo de 3 animales (no son strings, así dijo)
+[16:46, 11/11/2020] 3.2. En la primera casilla del arreglo instanciar un animal genérico, en la segunda casilla instanciar un pez y en la tercera casilla instanciar un ave
+[16:46, 11/11/2020] 3.3 Hacer un ciclo para ejecutar el método de las 3 casillas del arreglo
